@@ -1,4 +1,4 @@
-Corrida,X1,X2,X3,Viscosidad
+corrida,temperatura,tasa_agitacion,presion,viscosidad
 1,150,5,20,537.66
 2,200,5,20,582.66
 3,150,10,20,598.66
